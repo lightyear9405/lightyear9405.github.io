@@ -10,7 +10,7 @@
   display: inline-block;
   width: 8px;
   height: 1.1em;
-  background: #a7b1bb
+  background: #a7b1bb;
   margin-left: 6px;
   animation: blink 1s steps(1,end) infinite;
 }
