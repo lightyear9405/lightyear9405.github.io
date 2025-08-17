@@ -8,15 +8,29 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:   
-  - title: "Profile"
-    url: /profile/
+  - title: ""
+    url: /
 
-  - title: "Blog Posts"
-    url: /year-archive/    
+  - title: ""
+    url: /
+    
+  - title: "개발 기록"
+    url: /
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "수업 기록"
+    url: /
 
+  - title: "코테 기록"
+    url: /
+
+  # - title: "Profile"
+  #   url: /profile/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/    
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   # - title: "Publications"
   #   url: /publications/
