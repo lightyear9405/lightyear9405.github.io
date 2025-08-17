@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "ko-KR"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "$ tail -f dev.log"
+title                    : "$ tail -f ~/yr/dev.log"
 title_separator          : "Kim's DevLog"
 name                     : &name "Yurim"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "YR KIM"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "기록(記錄) 주로 후일에 남길 목적으로 어떤 사실을 적음. 또는 그런 글."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
