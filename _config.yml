@@ -27,8 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "주로 후일에 남길 목적으로 어떤 사실을 적음. 또는 그런 글."
   location         : "Seoul, republic of Korea"
-  email            : "lightyear@gmail.com" 
-  github           : "https://github.com/lightyear9405" 
+  github           : "lightyear9405" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
