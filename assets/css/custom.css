@@ -1,15 +1,16 @@
 .ps1 {
-  color: #90ee90; /* 초록색 */
+  color: #0d44e5
   margin-right: 6px;
 }
 .path {
-  color: #ffd166; /* 노랑 */
+  color: #a638d1;
+  margin-left: 7px;
 }
 .cursor {
   display: inline-block;
   width: 8px;
   height: 1.1em;
-  background: #d7e1ec; /* 글자색과 맞춤 */
+  background: #a7b1bb
   margin-left: 6px;
   animation: blink 1s steps(1,end) infinite;
 }
